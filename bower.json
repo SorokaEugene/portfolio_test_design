@@ -1,0 +1,16 @@
+{
+  "name": "portfolio_test",
+  "description": "Make some test portfolio PSD",
+  "main": "index.js",
+  "authors": [
+    "Soroka Eugene"
+  ],
+
+  "dependencies": {
+    "normalize.css" : "*",
+    "jquery" : "*"
+  },
+
+  "homepage": "",
+  "license": "ISC"
+}
